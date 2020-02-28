@@ -10,6 +10,8 @@
 * Description:
 > ~~You get to the scene of a bank heist and find that you have caught one person. Under further analysis of the persons~~ **flip phone** ~~you see a message that seems suspicious. Can you figure out what the message to put this guy in jail?~~
 
+# Solution
+
 Cyphertext corresponds to a flip phone keypad, and message can be decrypted in this way (T9 Cypher). The last paragraph (47777888 995559888 4555 47777888 44999988 666555997 : 8555444888477744488866888648833369!!) is the flag, which is further decrypted in reverse alphabet notation.
 
 After decryption with T9:
