@@ -20,3 +20,5 @@ After decryption with Reverse Alphabet Cypher:
 
 GORETIREMENTFUND
 
+( ﾉ^ω^)ﾉﾟ We found the flag!
+
