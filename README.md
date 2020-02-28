@@ -1,2 +1,2 @@
 # To Do:
-- placeholder rn
+- Detailed Stego writeups
