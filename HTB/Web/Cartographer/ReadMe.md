@@ -2,7 +2,7 @@
 
 # Prerequisites
 
-*Description:
+* Description:
 
 Some underground hackers are developing a new command and control server. Can you break in and see what they are up to?
 
