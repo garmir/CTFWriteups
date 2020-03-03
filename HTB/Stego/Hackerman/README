@@ -1,1 +1,1 @@
-I used a dict-attack with stegsolve. I used the rockyou.txt wordlist. After that I got an ouput, the password was "almost". In the output you could find ASCII text which looked Base64 encoded and it really was.
+I used a dict-attack with stegsolve. I used the rockyou.txt wordlist. After that I got an ouput, the password was "almost". In the output you could find ASCII text which was Base64 Encoded.
